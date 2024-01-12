@@ -1,4 +1,4 @@
-# Stein's algorithm
+# Stein's algorithm using Dlang
 
 Binary GCD Algorithm
 
