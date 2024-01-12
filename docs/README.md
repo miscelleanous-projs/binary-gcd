@@ -42,14 +42,14 @@ T steinGCD(T)(T a, T b) if (isIntegral!T && isUnsigned!T)
 
 void main()
 {
-    // Example #1 usage with integers
+    // Example #1 usage with unsigned integers
     uint num1 = 48u;
     uint num2 = 18u;
 
     uint gcdUInt = steinGCD(num1, num2);
     writeln("\nGCD of ", num1, " and ", num2, " is ", gcdUInt);
 
-    // Example #2 usage with longs
+    // Example #2 usage with unsigned longs
     ulong num3 = 105L;
     ulong num4 = 45L;
 
