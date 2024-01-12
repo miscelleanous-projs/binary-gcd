@@ -1,6 +1,6 @@
 # Stein's algorithm using Dlang
 
-Binary GCD Algorithm iplemented in [D](https://dlang.org)
+Binary GCD Algorithm implemented in [D](https://dlang.org)
 
 ## Source code
 
