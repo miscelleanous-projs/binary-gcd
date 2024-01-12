@@ -4,7 +4,7 @@ Binary GCD Algorithm
 
 ## Output
 
-To run the Dub Package enter into the folder an type `dub run` and type `Return`
+To run the Dub Package please enter into the folder, type `dub run` and type `Return`
 
 ```
 GCD of 48 and 18 is 6
